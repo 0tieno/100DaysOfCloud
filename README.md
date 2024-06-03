@@ -12,7 +12,7 @@ This challenge is to equip me with skills to  become a Cloud Engineer after I co
 | ------------ | ------------ | ------------ |
 | 1 | June 3, 2024 | July 2024|
 
-See my [Daily Log](https://github.com/0tieno/30DaysOfCloud/blob/main/DailyLog.md) | [Personal Resources]()
+See my [Daily Log](https://github.com/0tieno/30DaysOfCloud/blob/main/DailyLog.md) | [Personal Resources](https://github.com/0tieno/30DaysOfCloud/blob/main/Resources.md)
 
 ## Goals
 - Prepare to get a job in the target industry as a cloud engineer.
