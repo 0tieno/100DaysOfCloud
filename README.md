@@ -3,6 +3,7 @@
 
 **Main target:** ***I will practice for at least one hour every day for the next 30 days.***
 
+This is sprint 1 for the next 30 days of my 100-day challenge  of learning and practicing cloud by AWS in preparation for becoming a cloud engineer.
 This challenge is to equip me with skills to  become a Cloud Engineer after I complete the AWS Cloud Practioner Training I'm undertaking for 3 months.
 
 
@@ -11,7 +12,7 @@ This challenge is to equip me with skills to  become a Cloud Engineer after I co
 | ------------ | ------------ | ------------ |
 | 1 | June 3, 2024 | July 2024|
 
-See my [Daily Log](https://github.com/0tieno/100DayOfCode/blob/main/dailyLog.md) | [Personal Resources]()
+See my [Daily Log](https://github.com/0tieno/30DaysOfCloud/blob/main/DailyLog.md) | [Personal Resources]()
 
 ## Goals
 - Prepare to get a job in the target industry as a cloud engineer.
