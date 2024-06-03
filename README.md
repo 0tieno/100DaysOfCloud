@@ -1,4 +1,4 @@
-# 30DaysOfCloudChallenge Learning AWS 
+## 30DaysOfCloudChallenge - AWS Cloud Practioner - Cloud Engineer 
 
 
 **Main target:** ***I will practice for at least one hour every day for the next 30 days.***
