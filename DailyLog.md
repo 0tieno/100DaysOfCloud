@@ -23,3 +23,24 @@
   #### resources
   * (https://tryhackme.com/r/room/linuxfundamentalspart1)
 </details>
+
+<details>
+  <summary>Day 2: June 06, 2024</summary>
+
+  #### Today's Progress:
+  * Finished tryhackme Linux fundamentals 2
+  
+
+  #### Link to work:
+  *
+
+  #### New thing(s) learned:
+  1
+  
+
+  #### Thoughts:
+  * That which at first seems difficult by constant repetition grows easy.
+
+  #### resources
+  * (https://tryhackme.com/r/room/linuxfundamentalspart2)
+</details>
