@@ -100,7 +100,7 @@
 
 #### Today's Progress
 
-* Finished getting started with computing on aws educate
+* Finished getting started with Cloud 101 on aws educate
 * Received a badge on this
   
 #### Link to work
@@ -109,12 +109,18 @@
 
 #### New thing(s) learned
 
-  1. Intro to Security
-     * Authentication
-     * Authorization
-     * Layers of security (perimeter, environmental, infrastructure, data)
-     * IT security
-     * AWS IAM 
+  1. Intro to cloud computing
+  2. Intro to AWS
+  3. AWS Core Services
+     *  core services demos
+     *  intro to Amazon s3 demo
+     *  intro to Amazon ec2 demo
+     *  Intro Amazon VPC demo
+     *  intro to Amazon RDS demo
+     *  intro to Amazon IAM demo
+     *  intro to Amazon Lambda demo
+     *  intro to Amazon Cloud Watch demo
+  4. Cloud careers
   
 #### Thoughts
 
