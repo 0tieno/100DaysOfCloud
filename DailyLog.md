@@ -173,8 +173,37 @@
 
 #### New thing(s) learned
 
-  1. Into to AWS IAM
+  1. Intro to AWS IAM
   2. 
+     
+  
+#### Thoughts
+
+* That which at first seems difficult by constant repetition grows easy.
+
+#### resources
+
+* 
+</details>
+
+<details>
+  <summary>Day 7: June 12, 2024</summary>
+
+#### Today's Progress
+
+*
+  
+#### Link to work
+
+*
+
+#### New thing(s) learned
+
+  1. Created an AWS KMS encryption key
+  2. Installed the AWS Encryption CLI
+  3. Encrypted plaintext
+  4. Decrypted ciphertext
+     
      
   
 #### Thoughts
