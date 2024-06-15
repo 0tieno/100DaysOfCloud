@@ -1,5 +1,9 @@
 # 30 Days of Cloud Challenge - AWS Cloud Practitioner - Cloud Engineer
 
+## Intro
+
+This challenge is created during my 3-months training @ emobilis/Ajira for AWS Cloud Practioner role.
+
 ## Main Objective
 
 To master AWS Cloud technologies and prepare for a career as a Cloud Engineer.
