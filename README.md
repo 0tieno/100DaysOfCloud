@@ -2,7 +2,7 @@
 
 ## Intro
 
-This challenge is created during my 3-months training @ emobilis/Ajira for AWS Cloud Practioner role.
+This challenge is created during my 3-months training @ emobilis/Ajira for the AWS re/Start Program.
 
 ## Main Objective
 
