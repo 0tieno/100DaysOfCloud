@@ -19,6 +19,7 @@
 ## Learning Objectives
 
 You will learn how to do the following:
+
 - Express the value of technology.
 - Define basic computing terms.
 
@@ -29,22 +30,26 @@ Building blocks of the digital world: Applications, computers, and networks run 
 ## Computing terms
 
 An application is a set of instructions that runs on a computer to perform a specific task.
+
 - A computer program is written as code in a programming language.
 - Computer programs are generally called software.
 
 ### Types of Applications:
+
 - **Web application**: Runs in a web server or application server and is accessed from a web browser
 - **Mobile app**: Runs in and is accessed from a mobile device 
 - **Desktop application**: Runs in and is accessed from a desktop computer
 - **Internet of Things (IoT) application**: Runs in and is accessed from an appliance or specialized device that is connected to the internet
 
 ### Main Hardware Components Inside a Computer:
+
 - CPU
 - Memory
 - Storage drive
 - Network card
 
 ### Main Software Components:
+
 - OS
 - Applications
 
@@ -55,6 +60,7 @@ A computer network connects multiple devices to share data and resources.
 ## Learning Objectives
 
 You will learn how to do the following:
+
 - Describe servers and data centers.
 - Discuss computing technology that makes cloud computing possible.
 - Describe how software is developed.
@@ -64,6 +70,7 @@ You will learn how to do the following:
 ### What is a Server?
 
 A server is a computer that provides data or services to other computers.
+
 - A server provides a response to a request from a client computer over a network.
 - Server hardware typically differs from desktop hardware to support the following:
   - More memory and multiple CPUs
@@ -71,6 +78,7 @@ A server is a computer that provides data or services to other computers.
   - Smaller form factor
 
 ### Examples of Servers:
+
 - Web server
 - Database server
 - Mail server
@@ -78,6 +86,7 @@ A server is a computer that provides data or services to other computers.
 ### Where Does a Server Reside?
 
 Servers reside in a data center. A data center hosts all of an organization’s computer and networking equipment, including the following:
+
 - Servers
 - Storage devices
 - Network devices (routers, switches, and hubs)
@@ -87,12 +96,14 @@ Servers reside in a data center. A data center hosts all of an organization’s 
 ### Who Owns the Data Center?
 
 #### Traditional On-Premises Model
+
 - You own the data center and host it at your location.
 - You buy, install, configure, and manage all of the hardware and software in your own facility.
 - You hire the staff who are responsible for managing and maintaining the data center.
 - You use your own data center resources.
 
 #### Cloud Model
+
 - A cloud services provider owns the data center.
 - The cloud services provider buys the hardware and infrastructure software for its own facility.
 - The cloud services provider hires the personnel to support the data center.
@@ -103,12 +114,14 @@ Servers reside in a data center. A data center hosts all of an organization’s 
 ### What is a Virtual Machine (VM)?
 
 A virtual machine (VM) is a software-based computer.
+
 - A VM runs on a physical computer, which is called a host.
 - A software layer, which is called a hypervisor, provides access to the resources of the physical computer (CPU, memory, disk, and network) to the VM.
 - The VM runs its own operating system (OS) and interacts with the host through the hypervisor.
 - Multiple VMs can be provisioned on a single host.
 
 ### Benefits of VMs
+
 - **Cost Savings**: Running multiple VMs on a single physical machine reduces the need to buy a new computer.
 - **Efficiency**: Running multiple VMs on a single physical computer increases its utilization.
 - **Flexibility**: You can copy a VM image on the same physical host or move it to a different host to duplicate the VM’s computing environment.
@@ -116,6 +129,7 @@ A virtual machine (VM) is a software-based computer.
 ## Software Development Life Cycle
 
 ### Phases of Software Development
+
 1. **Plan**: What is the problem and what resources do you need to solve it?
 2. **Analyze**: What do you want from a solution?
 3. **Design**: How will you build what you want?
@@ -469,6 +483,7 @@ At the core of the lesson, you will learn how to identify AWS services and servi
 - **Amazon DynamoDB**
 
 #### Management and Governance
+
 - **AWS Management Console**
 - **AWS Config**
 - **Amazon CloudWatch**
@@ -478,7 +493,8 @@ At the core of the lesson, you will learn how to identify AWS services and servi
 - **AWS Well-Architected Tool**
 - **AWS CloudTrail**
 
-#### Networking and Content Delivery
+#### Networking and Content
+
 - **Amazon Virtual Private Cloud (Amazon VPC)**
 - **Elastic Load Balancing**
 - **Amazon CloudFront**
@@ -488,6 +504,7 @@ At the core of the lesson, you will learn how to identify AWS services and servi
 - **AWS Client VPN**
 
 #### Security, Identity, and Compliance
+
 - **AWS Identity and Access Management (IAM)**
 - **AWS Organizations**
 - **Amazon Cognito**
@@ -496,6 +513,7 @@ At the core of the lesson, you will learn how to identify AWS services and servi
 - **AWS Shield**
 
 #### Storage
+
 - **Amazon Simple Storage Service (Amazon S3)**
 - **Amazon Elastic Block Store (Amazon EBS)**
 - **Amazon Elastic File System (Amazon EFS)**
@@ -506,6 +524,7 @@ At the core of the lesson, you will learn how to identify AWS services and servi
 ## Learning Objectives
 
 You will learn how to do the following:
+
 - Describe AWS Cloud security and the shared responsibility model.
 - Identify the security responsibilities of Amazon Web Services (AWS) compared with the security responsibilities of the customer.
 
@@ -559,6 +578,7 @@ You will learn how to do the following:
 ### Learning Objectives
 
 You will learn how to do the following:
+
 - Describe the purpose and benefits of Amazon Simple Storage Service (Amazon S3).
 - Explain the basic pricing that Amazon S3 uses.
 
