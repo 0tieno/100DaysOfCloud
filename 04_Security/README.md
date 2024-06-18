@@ -2,7 +2,7 @@
 
 ## Introduction
 
-AWS Config is a service that enables you to assess, audit, and evaluate the configuration of your AWS resources. This README provides an overview of AWS Config, its features, and how it can help improve security configuration and compliance in your AWS environment.
+AWS Config is a service that enables you to assess, audit, and evaluate the configuration of your AWS resources. This module provides an overview of AWS Config, its features, and how it can help improve security configuration and compliance in your AWS environment.
 
 ## Features of AWS Config
 
