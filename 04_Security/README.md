@@ -58,3 +58,50 @@ AWS Config helps ensure that the resources in your AWS account comply with your 
 ## Conclusion
 
 AWS Config is an essential service for maintaining the security and compliance of your AWS resources. By leveraging its features, you can ensure your resources are correctly configured, continuously monitored, and promptly alerted if any compliance issues arise.
+
+# AWS Security Resources and Best Practices
+
+## Security Resources
+
+Different types of available security resources include the following:
+- **AWS Account Teams**: Dedicated teams to provide guidance and support.
+- **AWS Support Plans**: Various support levels for technical assistance.
+- **AWS Professional Services and AWS Partner Network (APN)**: Professional consulting and partner solutions.
+- **AWS Advisories and Bulletins**: Updates and notifications on security issues.
+- **AWS Auditor Learning Path**: Educational resources for auditing AWS environments.
+
+## AWS Compliance
+
+AWS Cloud compliance ensures robust controls for security and data protection:
+- Customers operate within a secure AWS-controlled environment.
+- AWS supports multiple security standards and compliance certifications globally.
+
+## Best Practices
+
+### AWS Account Security
+- **AWS Account Root User**: Identified by email address; has full admin access.
+  - Do not share root user credentials.
+  - Delete root user access keys after use.
+
+### IAM Best Practices
+- **IAM Users**: Create individual IAM users for organizational members.
+- **Multi-Factor Authentication (MFA)**: Enable MFA for enhanced account security.
+
+### AWS CloudTrail
+- **Logging and Billing**: Activate AWS CloudTrail for logging and billing reports.
+
+## AWS Trusted Advisor
+
+### Overview
+AWS Trusted Advisor offers real-time guidance for resource optimization and security:
+- Provides recommendations across five categories: Cost optimization, Performance, Security, Fault tolerance, and Service limits.
+
+### Security Checks
+Examples of Trusted Advisor security checks include:
+- Ensuring security groups restrict access appropriately.
+- Monitoring IAM permissions to control resource access.
+- Activating MFA for the root account.
+- Reviewing S3 bucket permissions to avoid public access.
+
+
+
