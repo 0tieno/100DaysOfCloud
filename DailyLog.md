@@ -214,3 +214,32 @@
 
 * 
 </details>
+
+<details>
+  <summary>Day 8: June 23, 2024</summary>
+
+#### Today's Progress
+
+*
+  
+#### Link to work
+
+*
+
+#### New thing(s) learned
+
+  1. Created an AWS KMS encryption key
+  2. Installed the AWS Encryption CLI
+  3. Encrypted plaintext
+  4. Decrypted ciphertext
+     
+     
+  
+#### Thoughts
+
+* That which at first seems difficult by constant repetition grows easy.
+
+#### resources
+
+* 
+</details>
