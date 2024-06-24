@@ -2,7 +2,7 @@
 
 ## day_01
 
-#### Finished the codewithmosh tutorial on python for beginners from youtube.
+### Finished the codewithmosh tutorial on python for beginners from youtube
 
 * variables
 * receiving user input
@@ -21,4 +21,3 @@
 * tuples
 
 ## day_02
-
