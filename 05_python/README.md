@@ -30,21 +30,21 @@ Python stores the type of an object with the object. When the operation is perfo
 
 ## Data Types
 
-#### Common Data Types
+### Common Data Types
 
-- `int`: Integer numbers
-- `float`: Floating-point numbers
-- `boolean`: Boolean values (`True` or `False`)
-- `str`: Strings (text)
+* `int`: Integer numbers
+* `float`: Floating-point numbers
+* `boolean`: Boolean values (`True` or `False`)
+* `str`: Strings (text)
 
 ### Mutable vs Immutable Data Types
 
-- **Mutable**:
+* **Mutable**:
   
-  - `list`
-  - `set`
-  - `dictionary`
-  - `byte array`
+  * `list`
+  * `set`
+  * `dictionary`
+  * `byte array`
 
 * **Immutable**:
   * `tuple`
@@ -69,13 +69,14 @@ while counter < 10:
 
 #### Loops(for, while)
 
-#### WHILE LOOP: 
+#### WHILE LOOP
 
-  * Whileloops can run indefinitely, so you must include the condition for the loop to stop. Otherwise, the code creates an infinite loop.•It is common to use an iterative counter with loops. As the loop completes, the counter increases (or decreases). When the counter reaches a specific number, the loop stops.
+* Whileloops can run indefinitely, so you must include the condition for the loop to stop. Otherwise, the code creates an infinite loop.
+* It is common to use an iterative counter with loops. As the loop completes, the counter increases (or decreases). When the counter reaches a specific number, the loop stops.
 
 #### For loops
 
-* A forloop reads: for each element in <thing>,do a certain task.•Some real-life examplesare:
+* A forloop reads: for each element in (thing),do a certain task.•Some real-life examplesare:
 For every egg in a recipe, add 2 cups of flour.
 
 ### Dictionaries
@@ -89,4 +90,5 @@ For every egg in a recipe, add 2 cups of flour.
   
 ### dictionary_methods
 
-* get(), update(), pop(), popitem(), clear(), keys(), values(), items() 
+* get(), update(), pop(), popitem(), clear(), keys(), values(), items()
+  
