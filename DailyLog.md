@@ -216,11 +216,11 @@
 </details>
 
 <details>
-  <summary>Day 8: June 23, 2024</summary>
+  <summary>Day 8: June 24, 2024</summary>
 
 #### Today's Progress
 
-*
+* finished python fro beginners on youtube by codewithmosh
   
 #### Link to work
 
@@ -228,13 +228,22 @@
 
 #### New thing(s) learned
 
-  1. Created an AWS KMS encryption key
-  2. Installed the AWS Encryption CLI
-  3. Encrypted plaintext
-  4. Decrypted ciphertext
+  1. variables
+  2. receiving user input
+  3. type conversion
+  4. strings: methods(replace, find, upper)
+  5. arithmetic operators(/, //, %, **, *, +, -, )
+  6. operator precedence
+  7. comparison operators(=, ==, >, <, =>, <=)
+  8. logical operators(or, and, not)
+  9. if statements
+  10. while loops
+  11. Lists
+  12. list methods(append, insert, remove, clear, in, len)
+  13. for loop
+  14. range()function
+  15. tuples
      
-     
-  
 #### Thoughts
 
 * That which at first seems difficult by constant repetition grows easy.
