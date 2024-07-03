@@ -1,4 +1,4 @@
-# day 1
+# day 01
 
 * Used the CREATE statement to create databases and tables. e.g `CREATE DATABASE database_name;`, `CREATE TABLE table_name (column1 datatype, column2 datatype, ...);`
 * Used the SHOW statement to view available databases and tables. e.g `SHOW DATABASES;`, `SHOW TABLES;`
