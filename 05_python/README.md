@@ -92,6 +92,16 @@ For every egg in a recipe, add 2 cups of flour.
 
 * get(), update(), pop(), popitem(), clear(), keys(), values(), items()
 
-# day_03
+## day_03
 
-  
+  Started python full course by Mosh [here](https://youtu.be/_uQrJ0TkZlc)
+
+* user input
+* type conversion
+* strings
+* formatted strings
+* string methods (`len`, `upper`, `lower`, `find`, `replace`, `in`)
+* arithmetic operators
+* if statement
+* logical operator(`and`, `or`, `not`)
+* comparison operators
