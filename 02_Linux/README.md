@@ -37,4 +37,4 @@
 
 # Lesson 3
 
-
+* [watched linux for cloud/devops engineers](https://www.youtube.com/watch?v=lCq4mYQL0WY&list=PPSV)
