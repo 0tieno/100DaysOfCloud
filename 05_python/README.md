@@ -105,3 +105,11 @@ For every egg in a recipe, add 2 cups of flour.
 * if statement
 * logical operator(`and`, `or`, `not`)
 * comparison operators
+
+## day_04
+
+* nested loops
+* lists
+* while loops
+* 2D lists
+* list methods
