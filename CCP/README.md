@@ -11,26 +11,24 @@
   * Completed the 3rd section - Introduction to Cloud Computing
   * Completed the 4th section - IAM (Identity and Access Management)
   
-takeaways:
+<details>
+<summary>Key takeaways:</summary>
 
 * IAM is a global service
-* least privilege practice. - users
-* inline policies, group policies, managed policies
-* IAM(roles, policies, users, CLI)
-* MFA Devices OPTIONS IN AWS
+* Practice least privilege for users
+* Different types of policies: inline, group, managed
+* IAM components: roles, policies, users, CLI
+* Options for MFA devices in AWS
     1. Virtual MFA device
-    2. Universal 2nd Factor(U2F) security key
-    3. hardware key fob MFA device
-    4. hardware key fob MFA device for AWS GovCloud(US)
+    2. Universal 2nd Factor (U2F) security key
+    3. Hardware key fob MFA device
+    4. Hardware key fob MFA device for AWS GovCloud (US)
 * IAM Security Tools
-* IAM credentials Report(account level)
-* IAM Access Advisor (user level)
+  * IAM credentials Report (account level)
+  * IAM Access Advisor (user level)
 
 * Budget/Billing setup
 
-* Started the 5th section - EC2 (Elastic Compute Cloud)
-  
-  * EC2 Basics
-  * user data
+</details>
 
 ### Day_02 - 2024-07-07
