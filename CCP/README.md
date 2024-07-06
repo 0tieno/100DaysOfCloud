@@ -6,6 +6,8 @@
 
 ### Day_01 - 2024-07-06
 
+---
+
 * Today's Progress:
   * Started the course
   * Completed the 3rd section - Introduction to Cloud Computing
@@ -32,3 +34,5 @@
 </details>
 
 ### Day_02 - 2024-07-07
+
+---
