@@ -57,7 +57,7 @@
 
   Note:-use Ec2 IAM roles for the instances
 
-#### ec2 instance purchasing options
+  ### ec2 instance purchasing options
 
   1. On demand: coming and staying in resort whenever we like, we pay the full price
   2. Reserved: like planning ahead and if we plan to stay for a long time, we may get a good discount.
@@ -71,22 +71,22 @@
      * summary
   ec2 - AMI(os), CPU, RAM, STORAGE, S.G, USER DATA
 
-## EC2 Instance Storage
+  ## EC2 Instance Storage
 
-* Summary
-* EBS volumes:
-  * network drives attached to one EC2 instance at a time
-  * Mapped to an Availability Zones
-  * Can use EBS Snapshots for backups / transferring EBS volumes across AZ
-* AMI: create ready-to-use EC2 instances with our customizations
-* EC2 Image Builder: automatically build, test and distribute AMIs
-* EC2 Instance Store:
-  * High performance hardware disk attached to our EC2 instance
-  * Lost if our instance is stopped / terminated
-* EFS: network file system, can be attached to 100s of instances in a region
-* EFS-IA: cost-optimized storage class for infrequent accessed files
-* FSx for Windows: Network File System for Windows servers
-* FSx for Lustre: High Performance Computing Linux file system
+  * Summary
+  * EBS volumes:
+    * network drives attached to one EC2 instance at a time
+    * Mapped to an Availability Zones
+    * Can use EBS Snapshots for backups / transferring EBS volumes across AZ
+  * AMI: create ready-to-use EC2 instances with our customizations
+  * EC2 Image Builder: automatically build, test and distribute AMIs
+  * EC2 Instance Store:
+    * High performance hardware disk attached to our EC2 instance
+    * Lost if our instance is stopped / terminated
+  * EFS: network file system, can be attached to 100s of instances in a region
+  * EFS-IA: cost-optimized storage class for infrequent accessed files
+  * FSx for Windows: Network File System for Windows servers
+  * FSx for Lustre: High Performance Computing Linux file system
 
 </details>
   
