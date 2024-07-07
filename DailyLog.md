@@ -252,3 +252,5 @@
 
 * 
 </details>
+
+### switched my daily logs to the 00_CCP directory.
