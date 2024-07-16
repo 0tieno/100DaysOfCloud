@@ -1,4 +1,5 @@
 # sprint 1 daily log
+
 <details>
   <summary>Day 1: June 05, 2024</summary>
 
@@ -23,6 +24,7 @@
 #### resources
 
 * [tryhackme Linux fundamentals part 1](https://tryhackme.com/r/room/linuxfundamentalspart1)
+
 </details>
 
 <details>
