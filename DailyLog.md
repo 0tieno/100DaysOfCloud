@@ -254,3 +254,25 @@
 </details>
 
 ### switched my daily logs to the 00_CCP directory.
+
+<details>
+  <summary>Day 0: July 16, 2024</summary>
+
+#### Today's Progress
+
+* 
+  
+#### Link to work
+
+*
+
+#### New thing(s) learned
+
+  1
+  
+#### Thoughts
+
+
+#### resources
+
+</details>
