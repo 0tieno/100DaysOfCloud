@@ -268,7 +268,9 @@
   
 #### Link to work
 
-* ![Deployed Jenkins to AWS EC2](./images/jenkinsDeployed.png)
+<!-- * ![Deployed Jenkins to AWS EC2](./images/jenkinsDeployed.png) -->
+* <img src="./images/jenkinsDeployed.png" alt="Project Logo" width="200"/>
+
 
 #### New thing(s) learned
 
