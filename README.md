@@ -40,7 +40,7 @@ I aim to immerse myself in as many study hours as possible each day, with a mini
 
 | No. | Project Title | Completed On | Languages Used |
 | :-: | ------------- | ------------ | -------------- |
-| 1   | Deployed Jenkins | July/17/2024   | Ec2   |
+| 1   | [Deployed Jenkins](https://github.com/0tieno/30DaysOfCloud/blob/main/images/jenkinsDeployed.png) | July/17/2024   | Ec2   |
 | 2   | Project Beta  | MM/DD/YYYY   | JavaScript, YAML|
 | ... | ...           | ...          | ...            |
 
