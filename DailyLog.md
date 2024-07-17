@@ -263,11 +263,12 @@
 #### Today's Progress
 
 * completed 0-4 / 30 Days
+* Deployed Jenkins on AWS
 * [using this youtube channel](https://www.youtube.com/watch?v=Dc0t4LDOySY&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=4)
   
 #### Link to work
 
-*
+* ![Deployed Jenkins to AWS EC2](relative/path/to/image.jpg)
 
 #### New thing(s) learned
 
