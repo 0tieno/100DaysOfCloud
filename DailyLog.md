@@ -258,11 +258,12 @@
 ### switched my daily logs to the 00_CCP directory.
 
 <details>
-  <summary>Day 0: July 16, 2024</summary>
+  <summary>Day 0: July 17, 2024</summary>
 
 #### Today's Progress
 
-* 
+* completed 0-4 / 30 Days
+* [using this youtube channel](https://www.youtube.com/watch?v=Dc0t4LDOySY&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=4)
   
 #### Link to work
 
@@ -270,7 +271,15 @@
 
 #### New thing(s) learned
 
-  1
+1. what is cloud?
+2. public vs private cloud
+3. why public cloud is so popular?
+4. how AWS is better than Others?
+5. are people going back from cloud - cloud repatriation
+6. AWS create account
+7. IAM Deep Dive(users, policies, groups, roles)
+8. EC2 Deep Dive ; types(general purpose, compute optimized, memory, storage, accelerated)
+
   
 #### Thoughts
 
