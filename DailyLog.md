@@ -264,7 +264,7 @@
 
 * completed 0-4 / 30 Days
 * Deployed Jenkins on AWS
-* [using this youtube channel](https://www.youtube.com/watch?v=Dc0t4LDOySY&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=4)
+* [using this AWS Zero to Hero](https://www.youtube.com/watch?v=Dc0t4LDOySY&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=4)
   
 #### Link to work:
 
@@ -284,6 +284,7 @@
 7. IAM Deep Dive(users, policies, groups, roles)
 8. EC2 Deep Dive ; types(general purpose, compute optimized, memory, storage, accelerated)
 9. Deploying jenkins on AWS EC2
+10. VPC(subnets, IGW, NACLS, Load balancer, NAT, route table)
 
   
 #### Thoughts
