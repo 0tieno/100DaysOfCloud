@@ -266,10 +266,11 @@
 * Deployed Jenkins on AWS
 * [using this youtube channel](https://www.youtube.com/watch?v=Dc0t4LDOySY&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=4)
   
-#### Link to work
+#### Link to work:
 
 <!-- * ![Deployed Jenkins to AWS EC2](./images/jenkinsDeployed.png) -->
-* <img src="./images/jenkinsDeployed.png" alt="Project Logo" width="500"/>
+ Jenkins Deployed
+ <img src="./images/jenkinsDeployed.png" alt="Project Logo" width="500"/>
 
 
 #### New thing(s) learned
