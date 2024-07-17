@@ -268,7 +268,7 @@
   
 #### Link to work
 
-* ![Deployed Jenkins to AWS EC2](relative/path/to/image.jpg)
+* ![Deployed Jenkins to AWS EC2](./images/jenkinsDeployed.png)
 
 #### New thing(s) learned
 
