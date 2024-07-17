@@ -283,6 +283,7 @@
 6. AWS create account
 7. IAM Deep Dive(users, policies, groups, roles)
 8. EC2 Deep Dive ; types(general purpose, compute optimized, memory, storage, accelerated)
+9. Deploying jenkins on AWS EC2
 
   
 #### Thoughts
