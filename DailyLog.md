@@ -300,12 +300,28 @@
   #### Today's Progress
 
 * [using this AWS Zero to Hero](https://www.youtube.com/watch?v=Dc0t4LDOySY&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=4)
+* completed 5-9 / 30days
+* Did a practical on NACL and SG
+* Did AWS Project Used In Production using
+
   
 #### Link to work
 
 
 #### New thing(s) learned
 
+* opened a python http server on port 8000 using ``python3 -m http.server 8000``
+* VPC(components)
+* SG and NACL
+  * SG - instance level - denys all inbound rules by default
+  * NACL - subnet level - enables you to either allow or deny
+  * security is a shared responsibility
+
+* Route53
+  * Domain name registration
+  * update DNS records using hosted zones
+  * Domain name system
+  * provides health check
   
 #### Thoughts
 
