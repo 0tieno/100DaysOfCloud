@@ -293,3 +293,23 @@
 #### resources
 
 </details>
+
+<details>
+  <summary>Day 1: July 18, 2024</summary>
+
+  #### Today's Progress
+
+* [using this AWS Zero to Hero](https://www.youtube.com/watch?v=Dc0t4LDOySY&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=4)
+  
+#### Link to work
+
+
+#### New thing(s) learned
+
+  
+#### Thoughts
+
+
+#### resources
+
+</details>
