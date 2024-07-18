@@ -300,7 +300,7 @@
   #### Today's Progress
 
 * [using this AWS Zero to Hero](https://www.youtube.com/watch?v=Dc0t4LDOySY&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=4)
-* completed 5-9 / 30days
+* completed 5-8 / 30days
 * Did a practical on NACL and SG
 * Did AWS Project Used In Production using
 
@@ -310,7 +310,7 @@
 
 #### New thing(s) learned
 
-* opened a python http server on port 8000 using ``python3 -m http.server 8000``
+* using ssh to ec2, opened a python http server on port 8000 using ``python3 -m http.server 8000``
 * VPC(components)
 * SG and NACL
   * SG - instance level - denys all inbound rules by default
