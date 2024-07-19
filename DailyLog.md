@@ -304,7 +304,17 @@
 * Did a practical on NACL and SG
 * completed interview questions on AWS learnt so far
 * Did AWS Project Used In Production using
-
+  * EC2
+  * VPC
+  * Security Groups
+  * NACL
+  * NAT Gateway
+  * Internet Gateway
+  * Route Table
+  * Load Balancer
+  * subnet
+  * Elastic IP
+  * Cloud
   
 #### Link to work
 
