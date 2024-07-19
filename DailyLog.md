@@ -367,7 +367,6 @@
   * cloud formation
   * Cloud dvpt kit (CDK)
 
-  
 #### Thoughts
 
 
