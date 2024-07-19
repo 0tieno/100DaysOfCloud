@@ -302,6 +302,7 @@
 * [using this AWS Zero to Hero](https://www.youtube.com/watch?v=Dc0t4LDOySY&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=4)
 * completed 5-8 / 30days
 * Did a practical on NACL and SG
+* completed interview questions on AWS learnt so far
 * Did AWS Project Used In Production using
 
   
