@@ -303,7 +303,7 @@
 * completed 5-8 / 30days
 * Did a practical on NACL and SG
 * completed interview questions on AWS learned so far
-* Did the AWS Project Used In Production using
+* Did the AWS Project Used In Production covering:
   * EC2
   * VPC
   * Security Groups
