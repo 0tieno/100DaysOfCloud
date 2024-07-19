@@ -277,13 +277,13 @@
 
 1. what is cloud?
 2. public vs private cloud
-3. why public cloud is so popular?
-4. how AWS is better than Others?
-5. are people going back from cloud - cloud repatriation
-6. AWS create account
+3. Why is the public cloud so popular?
+4. how is AWS better than Others?
+5. are people going back from cloud-cloud repatriation
+6. AWS creates an account
 7. IAM Deep Dive(users, policies, groups, roles)
 8. EC2 Deep Dive ; types(general purpose, compute optimized, memory, storage, accelerated)
-9. Deploying jenkins on AWS EC2
+9. Deploying Jenkins on AWS EC2
 10. VPC(subnets, IGW, NACLS, Load balancer, NAT, route table)
 
   
@@ -302,8 +302,8 @@
 * [using this AWS Zero to Hero](https://www.youtube.com/watch?v=Dc0t4LDOySY&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&index=4)
 * completed 5-8 / 30days
 * Did a practical on NACL and SG
-* completed interview questions on AWS learnt so far
-* Did AWS Project Used In Production using
+* completed interview questions on AWS learned so far
+* Did the AWS Project Used In Production using
   * EC2
   * VPC
   * Security Groups
@@ -324,7 +324,7 @@
 * using ssh to ec2, opened a python http server on port 8000 using ``python3 -m http.server 8000``
 * VPC(components)
 * SG and NACL
-  * SG - instance level - denys all inbound rules by default
+  * SG - instance level - denies all inbound rules by default
   * NACL - subnet level - enables you to either allow or deny
   * security is a shared responsibility
 
@@ -332,7 +332,7 @@
   * Domain name registration
   * update DNS records using hosted zones
   * Domain name system
-  * provides health check
+  * provides a health check
   
 #### Thoughts
 
@@ -340,3 +340,27 @@
 #### resources
 
 </details>
+
+<details>
+  <summary>Day 2: July 19, 2024</summary>
+
+#### Today's Progress
+
+* 
+  
+#### Link to work:
+
+
+
+#### New thing(s) learned
+
+1. 
+
+  
+#### Thoughts
+
+
+#### resources
+
+</details>
+
