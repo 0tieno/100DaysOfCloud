@@ -354,7 +354,18 @@
 
 #### New thing(s) learned
 
-1. 
+1. AWS S3 - scalable, cost effective, adaptability, performance,reliability
+
+2. AWS CLI deep dive
+
+* aws cli - python utility/program
+
+  * acts as middle man btw user and aws API that converts commands to make an api call to aws
+
+* Cloud automation - IaC
+  * terraform
+  * cloud formation
+  * Cloud dvpt kit (CDK)
 
   
 #### Thoughts
