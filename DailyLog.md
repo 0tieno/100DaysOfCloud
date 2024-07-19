@@ -355,6 +355,8 @@
 #### New thing(s) learned
 
 1. AWS S3 - scalable, cost effective, adaptability, performance,reliability
+   * practical hosting website on s3
+   * policies for bucket and objects practical
 
 2. AWS CLI deep dive
 
