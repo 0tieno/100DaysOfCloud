@@ -346,7 +346,7 @@
 
 #### Today's Progress
 
-* 
+* [using this aws zero to hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze)
   
 #### Link to work:
 
