@@ -1,4 +1,4 @@
-# 30 Days of Cloud Challenge - AWS Cloud Practitioner - Cloud Engineer
+# 30DaysOfCloud Challenge - AWS Cloud Practitioner - Cloud Engineer
 
 ## Intro
 
