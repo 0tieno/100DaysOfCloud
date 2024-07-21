@@ -391,6 +391,9 @@
 #### New thing(s) learned
 
 * IaC with AWS CFT | Tips and Tricks to Write CFT | CFT vs Terraform
+  * CFT - cloud formation template
+  * creating infrastructure
+  * drift detection
   
 </details>
 
