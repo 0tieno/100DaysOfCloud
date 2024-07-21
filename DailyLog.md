@@ -347,6 +347,7 @@
 #### Today's Progress
 
 * [using this aws zero to hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze)
+* completed 9 & 10 / 30days
   
 #### Link to work:
 
