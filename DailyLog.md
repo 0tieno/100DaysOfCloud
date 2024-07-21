@@ -377,3 +377,20 @@
 
 </details>
 
+<details>
+  <summary>Day 3: July 20, 2024</summary>
+
+#### Today's Progress
+
+* [using this aws zero to hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze)
+
+* completed 11 / 30days
+
+#### Link to work:
+
+#### New thing(s) learned
+
+* IaC with AWS CFT | Tips and Tricks to Write CFT | CFT vs Terraform
+  
+</details>
+
