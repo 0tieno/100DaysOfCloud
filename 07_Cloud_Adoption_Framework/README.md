@@ -38,13 +38,13 @@ performs its intended function.
 that a resource is in an operable state.
 * High availability can be achieved in the AWS
 Cloud by using the following:
-• Multiple servers
-* Isolated redundant data centers within
-each Availability Zone
-* Multiple Availability Zones within each
-Region
-* Multiple Regions around the world
-* Fault-tolerant services
+  * Multiple servers
+  * Isolated redundant data centers within
+  each Availability Zone
+  * Multiple Availability Zones within each
+  Region
+  * Multiple Regions around the world
+  * Fault-tolerant services
 
 ## TRANSITION DATA CENTER TO THE CLOUD
 
