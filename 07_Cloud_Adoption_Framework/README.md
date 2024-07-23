@@ -24,11 +24,11 @@ set of foundational questions that you can
 use to understand whether a specific architecture
 aligns well with cloud best practices.
 * The Well-Architected Framework is organized into
-pillars: operational excellence, security,
-reliability, performance efficiency, cost
-optimization, and sustainability.
-* Each pillar includes a set of design principles
-and best practices.
+pillars: **operational excellence**, `security`,
+`reliability`, `performance efficiency`, `cost
+optimization`, and `sustainability`.
+* Each pillar includes a set of `design principles`
+and `best practices`.
 
 ## RELIABILITY AND AVAILABILITY
 
