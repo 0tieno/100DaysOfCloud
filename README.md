@@ -34,6 +34,12 @@ I aim to immerse myself in as many study hours as possible each day, with a mini
 
 ### Certifications & badges Accomplished
 
+1. [AWS Educate Getting started with Networking](https://www.credly.com/badges/52bdc675-a065-46c3-a50a-e1782d7e7e34/public_url)
+2. [AWS Educate Getting Started with Cloud 101](https://www.credly.com/badges/6a6bd8cf-9918-4154-b848-c4cac011d495/public_url)
+3. [Cisco Introduction to cybersecurity](https://www.credly.com/badges/98c93fa4-ef87-48e5-b1f8-96445cbc3096/public_url)
+4. [Cisco Networking Academy Learn-A-Thon 2024
+](https://www.credly.com/badges/a88bde45-6453-421a-9468-7f3ba49dfa9a/public_url)
+
 *Details to be updated as certifications are completed.*
 
 ### Projects Attempted
