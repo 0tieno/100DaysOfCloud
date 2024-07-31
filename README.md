@@ -1,4 +1,4 @@
-# 30DaysOfCloud Challenge - AWS Cloud Practitioner - Cloud Engineer
+# DevOps | Software | Cloud Engineer
 
 ## Intro
 
@@ -8,17 +8,17 @@ This challenge is created during my 3-months training @ emobilis/Ajira for the A
 
 To master AWS Cloud technologies and prepare for a career as a Cloud Engineer.
 
-***I will dedicate at least 2 hours every day for the next 30 days to practice and learn AWS Cloud skills.***
+***I will dedicate at least 2 hours every day for the next 100 days to practice and learn AWS Cloud skills.***
 
-Welcome to the first sprint of my 100-day challenge to master cloud technologies with AWS. Over the next three months, I will be focusing on gaining the necessary skills and knowledge to transition into a Cloud Engineer role. This 30-day sprint is just the beginning of my journey as I prepare for the AWS Cloud Practitioner certification and beyond.
+Welcome to 100-day challenge to master cloud technologies with AWS. Over the next three months, I will be focusing on gaining the necessary skills and knowledge to transition into a Cloud Engineer role. This challenge will involve daily practice, project building, and certification preparation to ensure that I am well-equipped to secure a job in the cloud computing industry.
 
 ## Challenge Timeline
 
 | Sprint | Start Date | End Date |
 | ------ | ---------- | -------- |
-| 1      | June 3, 2024 | July 2, 2024 |
+| 1      | Aug 1, 2024 | Oct 31, 2024 |
 
-Check out my [Daily Log](https://github.com/0tieno/30DaysOfCloud/blob/main/DailyLog.md) and [Personal Resources](https://github.com/0tieno/30DaysOfCloud/blob/main/Resources.md) to follow my progress and access valuable materials.
+Check out my [Daily Log](https://github.com/0tieno/100DaysOfCloud/blob/main/logs.md) and [Personal Resources](https://github.com/0tieno/30DaysOfCloud/blob/main/Resources.md) to follow my progress and access valuable materials.
 
 ## Goals
 
@@ -32,7 +32,7 @@ I aim to immerse myself in as many study hours as possible each day, with a mini
 
 ## Achievements
 
-### Certifications Accomplished
+### Certifications & badges Accomplished
 
 *Details to be updated as certifications are completed.*
 
