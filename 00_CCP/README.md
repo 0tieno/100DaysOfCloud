@@ -1,6 +1,6 @@
-## This repo is for my daily logs of the Cloud Practioner exam preparation journey using Udemy Course by Stephane
+# This repo is for my daily logs of the Cloud Practioner exam preparation journey using Udemy Course by Stephane
 
-### The course is called "AWS Certified Cloud Practitioner 2020-Real Exam Practice Tests" by Stephane Maarek
+## The course is called "AWS Certified Cloud Practitioner 2020-Real Exam Practice Tests" by Stephane Maarek
 
 * The course is available at https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-amazon/
 
@@ -90,3 +90,9 @@
 
 </details>
   
+## practise exams
+
+* using linkedin learning
+
+  1. AWS Certified Cloud Practitioner (CLF-C02) Cert Prep: 1
+  ![image](../images/test1.png)
