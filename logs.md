@@ -1,6 +1,14 @@
-# Weekly Logs / documentation 📝
+# Daily Logs 📝
 
-## Week 1 - Aug 1, 2024 - Aug 5, 2024
+<details>
+    <summary>Day1: Aug 01, 2024</summary>
 
-### Topics
+## topics covered
+
+* Exam Preparation - CCP
   
+## total time
+
+* 1 hour
+
+</details>
