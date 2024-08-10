@@ -6,11 +6,11 @@ This challenge is created during my 3-month training @ emobilis/Ajira for the AW
 
 ## Main Objective
 
-To master Azure / AWS Cloud technologies and prepare for a career as a Cloud Engineer.
+To master Azure / AWS Cloud technologies and prepare for a career as a DevOps | Cloud Engineer.
 
-***I will dedicate at least 2 hours every day for the next 100 days to practice and learn Azure / AWS Cloud skills.***
+***I will dedicate at least 2 hours daily for the next 100 days to practice and learn Azure / AWS Cloud skills.***
 
-Welcome to the 100-day challenge to master cloud technologies with Azure / AWS. Over the next three months, I will be focusing on gaining the necessary skills and knowledge to become a DevOps | Cloud Engineer role. This challenge will involve daily practice, project building, and certification preparation to ensure that I am well-equipped to secure a job in the software, and cloud computing industry.
+Welcome to the 100-day challenge to master cloud technologies with Azure / AWS. Over the next three months, I will focus on gaining the necessary skills and knowledge to become a DevOps | Cloud Engineer. This challenge will involve daily practice, project building, and certification preparation to ensure that I am well-equipped to secure a job in the software, and cloud computing industry.
 
 ## Challenge Timeline
 
