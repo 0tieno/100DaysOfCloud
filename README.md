@@ -2,15 +2,15 @@
 
 ## Intro
 
-This challenge is created during my 3-months training @ emobilis/Ajira for the AWS re/Start Program.
+This challenge is created during my 3-month training @ emobilis/Ajira for the AWS re/Start Program.
 
 ## Main Objective
 
-To master AWS Cloud technologies and prepare for a career as a Cloud Engineer.
+To master Azure / AWS Cloud technologies and prepare for a career as a Cloud Engineer.
 
-***I will dedicate at least 2 hours every day for the next 100 days to practice and learn AWS Cloud skills.***
+***I will dedicate at least 2 hours every day for the next 100 days to practice and learn Azure / AWS Cloud skills.***
 
-Welcome to 100-day challenge to master cloud technologies with AWS. Over the next three months, I will be focusing on gaining the necessary skills and knowledge to transition into a Cloud Engineer role. This challenge will involve daily practice, project building, and certification preparation to ensure that I am well-equipped to secure a job in the cloud computing industry.
+Welcome to the 100-day challenge to master cloud technologies with Azure / AWS. Over the next three months, I will be focusing on gaining the necessary skills and knowledge to become a DevOps | Cloud Engineer role. This challenge will involve daily practice, project building, and certification preparation to ensure that I am well-equipped to secure a job in the software, and cloud computing industry.
 
 ## Challenge Timeline
 
@@ -22,9 +22,9 @@ Check out my [Daily Log](https://github.com/0tieno/100DaysOfCloud/blob/main/logs
 
 ## Goals
 
-- **Career Preparation:** Equip myself with the skills to secure a job as a Cloud Engineer.
-- **Consistency:** Develop a habit of daily practice and continuous learning building projects.
-- **Certifications:** Complete multiple certifications on AWS Skill Builder and AWS Educate.
+- **Career Preparation:** Equip me with the skills to secure a job as a DevOps | Cloud Engineer.
+- **Consistency:** Develop a habit of daily practice and continuous learning-building projects.
+- **Certifications:** Complete multiple certifications on AWS Skill Builder, AWS Educate, LinkedIn Learning, and Microsoft Learn.
 
 ## Study Commitment
 
