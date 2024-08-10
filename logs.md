@@ -1,7 +1,7 @@
-# Daily Logs 📝
+# Daily Logs 📝 Master Azure
 
 <details>
-    <summary>Day1: Aug 01, 2024</summary>
+    <summary>Day1: Aug 00, 2024</summary>
 
 ## topics covered
 
@@ -14,11 +14,38 @@
 </details>
 
 <details>
-    <summary>Day2: Aug 02, 2024</summary>
+    <summary>Day2: Aug 000, 2024</summary>
 
 ## topics covered
 
 * Exam Preparation - CCP
+  
+## total time
+
+* 1 hour
+
+</details>
+
+<details>
+    <summary>Day01: Aug 10, 2024</summary>
+
+## topics covered
+
+* Basics Of Cloud Computing
+* Getting started with Azure
+
+## summary
+### How to Choose Regions and Availability Zones
+
+When deploying resources in Azure, it's crucial to consider factors such as:
+
+- **Proximity to Users:** Choose a region that is geographically close to your users to minimize latency.
+
+- **Compliance Requirements:** Ensure that the chosen region complies with regulatory and data residency requirements.
+
+- **High Availability Needs:** If high availability is a priority, distribute resources across multiple Availability Zones within a region.
+
+- **Disaster Recovery Planning:** Leverage region pairing for effective disaster recovery planning.
   
 ## total time
 
