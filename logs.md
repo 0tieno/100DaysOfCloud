@@ -49,6 +49,27 @@ When deploying resources in Azure, it's crucial to consider factors such as:
   
 ## total time
 
-* 1 hour
+* 2+ hours
+
+</details>
+
+<details>
+    <summary>Day02: Aug 11, 2024</summary>
+
+## topics covered
+
+* Azure Networking
+  * Firewalls
+  * NSG & ASG
+  * Vnet
+  * Subnets
+  * Resource Groups manager & RGs & Resources
+  * Bastion
+  * Demos
+* Billing and budget creation
+  
+## total time
+
+* 4+ hours
 
 </details>
