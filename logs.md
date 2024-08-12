@@ -73,3 +73,22 @@ When deploying resources in Azure, it's crucial to consider factors such as:
 * 4+ hours
 
 </details>
+
+<details>
+    <summary>Day03: Aug 12, 2024</summary>
+
+## topics covered
+
+* Azure Storage
+* Azure CLI
+* Azure IAM
+* Networking
+* Mstf Learn Modules
+* Quick start center done
+* Cost and billing management
+  
+## total time
+
+* 4+ hours
+
+</details>
