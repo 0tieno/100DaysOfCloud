@@ -94,7 +94,7 @@ When deploying resources in Azure, it's crucial to consider factors such as:
 </details>
 
 <details>
-    <summary>Day04: Aug 14, 2024</summary>
+    <summary>Day04: Aug 13, 2024</summary>
 
 ## topics covered
 
