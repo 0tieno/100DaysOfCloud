@@ -92,3 +92,30 @@ When deploying resources in Azure, it's crucial to consider factors such as:
 * 4+ hours
 
 </details>
+
+<details>
+    <summary>Day04: Aug 14, 2024</summary>
+
+## topics covered
+
+* completed 2 learning paths
+* Completed different demos on storage and networking
+  
+## total time
+
+* 4+ hrs
+
+</details>
+
+<details>
+    <summary>Day05: Aug 14, 2024</summary>
+
+## topics covered
+
+* 
+  
+## total time
+
+* 1 hour
+
+</details>
