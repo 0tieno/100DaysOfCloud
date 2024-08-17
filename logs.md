@@ -112,10 +112,42 @@ When deploying resources in Azure, it's crucial to consider factors such as:
 
 ## topics covered
 
-* 
+* worked on azure and devops week 1 deliverables
   
 ## total time
 
-* 1 hour
+* 4+ hrs
 
 </details>
+
+<details>
+    <summary>Day06: Aug 15, 2024</summary>
+
+## topics covered
+
+* worked on azure and devops week 1 deliverables
+  
+## total time
+
+* 4+ hrs
+
+</details>
+
+<details>
+    <summary>Day07: Aug 16, 2024</summary>
+
+## topics covered
+
+* worked on azure and devops week 1 deliverables
+* completed week 1 deliverables
+
+## link to work
+* [frontend deliverable - odin-form](0tieno.github.io/odin-forms/)  
+  
+## total time
+
+* 5+ hrs
+
+</details>
+
+
