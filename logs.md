@@ -183,4 +183,34 @@ When deploying resources in Azure, it's crucial to consider factors such as:
 
 </details>
 
+<details>
+    <summary>Day09: Aug 20, 2024</summary>
+
+## topics covered
+
+* worked on ccp revision
+* worked on Javascript and Azure basics
+  
+## total time
+
+* 5+ hrs
+
+</details>
+
+<details>
+    <summary>Day10: Aug 21, 2024</summary>
+
+## topics covered
+
+* worked on ccp revision
+* worked on Javascript and Azure VMs
+* used the Pomodoro technique and completed a lot
+  
+  
+## total time
+
+* 7+ hrs
+
+</details>
+
 
