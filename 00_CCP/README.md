@@ -96,3 +96,5 @@
 
   1. AWS Certified Cloud Practitioner (CLF-C02) Cert Prep: 1
   ![image](../images/test1.png)
+
+## Finished the course and PASSED my CCP exams. [see it here](https://www.linkedin.com/posts/ronney-otieno_forever-aws-cloudcomputing-activity-7233166937462063104-YDjb?utm_source=share&utm_medium=member_desktop)
