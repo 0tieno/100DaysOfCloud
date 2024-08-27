@@ -228,11 +228,43 @@ When deploying resources in Azure, it's crucial to consider factors such as:
 * touch
 * vim
 * chmod
+* #!/bin/bash
+comments
+metadata:
+author
+date
+use
+version
+
+set -x  #debug mode
+set -e # exit the script when there is an error
+set -o pipefail
+
+ps -ef | grep "amazon"
+
+stdin, stdout, stderr
+
+awk
+
+grep name test
+
+grep name test | awk -F"" '{print &2}'
+curl
+wget
+
+find 'location' -name filename
+
+kill -9 PID/Name
+
+for loop
+if else statement
+
+trap command
   
   
 ## total time
 
-* 1+ hrs
+* 2+ hrs
 
 </details>
 
