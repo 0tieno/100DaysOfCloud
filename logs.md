@@ -213,4 +213,27 @@ When deploying resources in Azure, it's crucial to consider factors such as:
 
 </details>
 
+<details>
+    <summary>Day11: Aug 22, 2024</summary>
+
+## topics covered
+
+* worked on Linux shell scripting
+* nproc & free commands
+* ls
+* ls -ltr
+* man
+* mkdir
+* rm -rf
+* touch
+* vim
+* chmod
+  
+  
+## total time
+
+* 1+ hrs
+
+</details>
+
 
