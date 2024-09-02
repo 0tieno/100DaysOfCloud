@@ -1,4 +1,4 @@
-# DevOps | Software | Cloud Engineer
+# DevOps . Software . Cloud Engineer
 
 ## Intro
 
@@ -18,11 +18,11 @@ Welcome to the 100-day challenge to master cloud technologies with Azure / AWS. 
 | ------ | ---------- | -------- |
 | 1      | Aug 1, 2024 | Oct 31, 2024 |
 
-Check out my [Daily Log](https://github.com/0tieno/100DaysOfCloud/blob/main/logs.md) and [Personal Resources](https://github.com/0tieno/30DaysOfCloud/blob/main/Resources.md) to follow my progress and access valuable materials.
+Check out my [Daily Log]() and [Personal Resources](https://github.com/0tieno/30DaysOfCloud/blob/main/Resources.md) to follow my progress and access valuable materials.
 
 ## Goals
 
-- **Career Preparation:** Equip me with the skills to secure a job as a DevOps | Cloud Engineer.
+- **Career Preparation:** Equip me with the skills to secure a DevOps | Cloud Engineer job.
 - **Consistency:** Develop a habit of daily practice and continuous learning-building projects.
 - **Certifications:** Complete multiple certifications on AWS Skill Builder, AWS Educate, LinkedIn Learning, and Microsoft Learn.
 
